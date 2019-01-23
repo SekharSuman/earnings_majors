@@ -1,2 +1,2 @@
-# earnings_majors
+# Earnings_majors
 Visualizations using matplotlib
